@@ -1,0 +1,26 @@
+body
+    {
+        margin: 10px;
+        background: url(endangeredmammals.jpg);
+        background-repeat : no-repeat;
+        background-size: 100% 100%;
+        background-attachment: fixed;
+        height: 100vh;
+    }
+h1
+    {
+        text-align: center;
+        color: white;
+        font-size: 50px;
+    }
+p 
+    {
+        color: white;
+        font-size: 25px;
+    }
+a
+    {
+        
+        font-size: 25px;
+        color: orange;
+    }

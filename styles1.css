@@ -1,0 +1,21 @@
+body
+    {
+        margin: 10px;
+        background: url(topics.jpg);
+        background-repeat : no-repeat;
+        background-size: 100% 100%;
+        background-attachment: fixed;
+        height: 100vh;
+    }
+a
+    {
+        
+        font-size: 25px;
+        color: white;
+    }
+h1
+{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
